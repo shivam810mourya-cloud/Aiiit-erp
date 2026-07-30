@@ -1,0 +1,17 @@
+{
+  "name": "AIIIT Computer Education Center — ERP",
+  "short_name": "AIIIT ERP",
+  "description": "Offline-first institute management system for AIIIT Computer Education Center: students, courses, batches, attendance, fees, exams, ID cards, certificates and reports.",
+  "start_url": "./aiiit-v2.html",
+  "scope": "./",
+  "id": "aiiit-erp",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f0f4ff",
+  "theme_color": "#3b5bdb",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
